@@ -1,0 +1,8 @@
+var1: "CONTENIDOO DE VALOR1"
+var2: 100
+
+server.port: 8082
+
+#Application.properties
+  #var1=CONTENIDO DE VALOR1
+  #var2=100
